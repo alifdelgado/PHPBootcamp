@@ -1,0 +1,15 @@
+{
+    "name": "ic4r0/namespaces",
+    "authors": [
+        {
+            "name": "alifdelgado",
+            "email": "alifdelgado@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
